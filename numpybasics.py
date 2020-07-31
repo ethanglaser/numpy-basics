@@ -137,10 +137,3 @@ basket = fruits.copy()
 
 
 
-
-
-
-
-
-
-
